@@ -1,0 +1,38 @@
+.header-card {
+  border-radius: 15px !important;
+  background-color: var(--color-primary) !important;
+  color: var(--color-white) !important;
+  margin: 10px;
+}
+
+.bread-crumb {
+  margin: 0;
+  padding-bottom: 5px;
+  font-size: 13px;
+}
+
+.pass {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+h3 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.logout {
+  line-height: 16px;
+  border-right: 1px solid var(--color-white);
+}
+
+.top-right-text {
+  padding: 0 15px;
+}
+
+.header-icon {
+  font-size: 20px !important;
+  margin: 0 15px;
+}

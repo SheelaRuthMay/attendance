@@ -1,0 +1,72 @@
+.css-1hv8oq8-MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+  margin-top: 5px !important;
+}
+
+.content-card {
+  border-radius: 15px !important;
+  background-color: var(--color-white) !important;
+  color: var(--color-black) !important;
+  margin: 5px 10px 10px 10px;
+  padding: 30px 20px 0 20px;
+}
+
+.timer {
+  text-align: center;
+  font-size: 13px;
+  padding: 10px;
+  margin-top: 10px;
+  box-shadow: 0 0 3px 1px var(--color-border);
+}
+
+.countdown {
+  font-size: 13px;
+  font-weight: 500;
+  padding: 3px 5px;
+  border-radius: 5px;
+  background-color: var(--color-primarylight);
+  color: var(--color-white);
+  margin: 0 5px;
+}
+
+.css-1hdyuqk-MuiPaper-root-MuiAlert-root .MuiAlert-icon {
+  float: left;
+}
+
+.badge-count span {
+  color: var(--color-white);
+  background-color: var(--color-primarylight);
+}
+
+.inner-settings {
+  color: var(--color-white);
+  width: 15px !important;
+  height: 15px !important;
+  background-color: var(--color-blue);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.form-title {
+  text-align: center;
+  color: var(--color-primarylight);
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.page {
+  text-align: left;
+  font-size: 13px;
+  margin: 0;
+}
+
+.stepper-stack {
+  width: 100%;
+  border-bottom: 2px solid var(--color-border-light);
+  padding-bottom: 30px;
+}
+
+.alert-stack {
+  width: 100%;
+  margin-top: 20px;
+}
